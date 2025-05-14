@@ -20,6 +20,6 @@ Data Source
 - Kaggle: Car Prices Dataset (https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data/code)
 
 Files
-- `car_analysis.twb` — Tableau workbook
-- `car_prices.csv` — Cleaned dataset
+- car_prices.twb — Tableau workbook
+- car_prices.csv — Cleaned dataset
 
