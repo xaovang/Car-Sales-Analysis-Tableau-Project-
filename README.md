@@ -4,7 +4,7 @@ This project explores a dataset of used car sales to uncover trends in pricing, 
 
 Key Dashboards
 - Average Selling Price by Make
-- Average Odometer by Make
+- Selling Price Vs. Mileage
 - Top 10 Most Sold Models
 
 Tools Used
